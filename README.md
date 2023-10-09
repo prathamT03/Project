@@ -1,1 +1,1 @@
-# Project
+# simple-javascript-calculator
